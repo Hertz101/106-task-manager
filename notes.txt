@@ -1,0 +1,12 @@
+// new repo-project
+1 . Create the github repository
+2. git init -> VSCode-terminal
+3. git add .
+4. git commit -m "session#1"
+5. git branch -M main
+6. git remote add origin git@github.com:Hertz101/106-task-manager.git
+7 git push -u origin main
+
+
+
+// upload changes

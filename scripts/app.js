@@ -1,4 +1,4 @@
-//This URL is the server direction
+//This URL is the server direction.
 
 const API="https://106api-b0bnggbsgnezbzcz.westus3-01.azurewebsites.net/api/tasks";
 
